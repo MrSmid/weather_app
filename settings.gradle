@@ -1,2 +1,6 @@
 rootProject.name = 'weather_app'
 
+include 'weather-microservice'
+include 'person-microservice'
+include 'location-microservice'
+include 'discovery-server-eureka'
